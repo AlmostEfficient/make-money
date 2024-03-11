@@ -7,6 +7,7 @@ Ranking every way of making money on Solana
 - DeFi strategies
 - Trading/NFT flipping
 - Airdrop farming
+- Treasury farming (submit proposals, get paid)
 - DePIN
 - Scamming 💀
 
