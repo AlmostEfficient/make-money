@@ -1,7 +1,7 @@
 # make-money
 Ranking every way of making money on Solana
 
-![image](https://github.com/AlmostEfficient/make-money/assets/42661870/97ac501c-7749-47db-b9b2-c677bf0d4bdb)
+![image](https://github.com/AlmostEfficient/make-money/assets/42661870/8fd3e9ef-04dc-453b-bcf2-f0e20bfac7f6)
 
 - Create a program
 - Create a front-end
@@ -13,16 +13,3 @@ Ranking every way of making money on Solana
 - DePIN
 - Scamming 💀
 
-Rated on these scales:
-- Money needed
-- Ease of getting started
-- Return on investment
-- Scalability
-- Risk
-
-Can reframe these as:
-- Capital
-- Accessibility
-- Profit/Risk
-- Scalability
-a CAP score?
